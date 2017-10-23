@@ -1,0 +1,15 @@
+{
+  "name": "annotate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "unite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "unite.js": "0.0.1-a"
+  }
+}
